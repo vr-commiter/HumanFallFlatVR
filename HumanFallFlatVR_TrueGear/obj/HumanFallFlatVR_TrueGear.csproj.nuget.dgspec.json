@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\_ModProject\\HumanFallFlatVR\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear.csproj": {}
+  },
+  "projects": {
+    "E:\\_ModProject\\HumanFallFlatVR\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\_ModProject\\HumanFallFlatVR\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear.csproj",
+        "projectName": "HumanFallFlatVR_TrueGear",
+        "projectPath": "E:\\_ModProject\\HumanFallFlatVR\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear.csproj",
+        "packagesPath": "C:\\Users\\zz\\.nuget\\packages\\",
+        "outputPath": "E:\\_ModProject\\HumanFallFlatVR\\HumanFallFlatVR_TrueGear\\HumanFallFlatVR_TrueGear\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {},
+          "https://nuget.samboy.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net46",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "BepInEx.Unity.Mono": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[6.0.0-be.*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2022.3.26, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

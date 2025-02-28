@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanFallFlatVR_TrueGear", "HumanFallFlatVR_TrueGear\HumanFallFlatVR_TrueGear.csproj", "{C5907A53-52C0-4C47-A4E2-561878334DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5907A53-52C0-4C47-A4E2-561878334DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5907A53-52C0-4C47-A4E2-561878334DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5907A53-52C0-4C47-A4E2-561878334DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5907A53-52C0-4C47-A4E2-561878334DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CDFF714-1F5D-4527-BC3A-8788A66C5031}
+	EndGlobalSection
+EndGlobal

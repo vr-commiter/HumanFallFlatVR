@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = HumanFallFlatVR_TrueGear
+build_property.ProjectDir = E:\_ModProject\HumanFallFlatVR\HumanFallFlatVR_TrueGear\HumanFallFlatVR_TrueGear\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
